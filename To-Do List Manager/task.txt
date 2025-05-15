@@ -1,0 +1,6 @@
+1 | Morning Exercise | Priority: 1 | Status: Completed | DateTime: 2024-12-04 23:44:22 | Deadline: 2024-12- 04 24:00:00 | Completed On: 2024-12-05 00:06:23
+2 | Making breakfast | Priority: 1 | Status: Pending | DateTime: 2024-12-04 23:45:47 | Deadline: 2024-12-05 6:30:07 | Completed (%): 40%
+5 | preparing for exams| Playing basketball | Priority: 1 | Status: Pending | DateTime: 2024-12-05 00:06:10 | Deadline: 2024-12-05 15:26:33
+4 | GYM | Priority: 2 | Status: Pending | DateTime: 2024-12-05 00:03:53 | Deadline: 2024-12-04 18:23:09
+6 | Buy Grocery | Priority: 2 | Status: Pending | DateTime: 2024-12-05 00:11:14 | Deadline: 2024-12-06 10:30:09
+7 | preparing for dinner | Priority: 2 | Status: Pending | DateTime: 2024-12-05 00:12:52 | Deadline: 2024-12-05 21:09:10
